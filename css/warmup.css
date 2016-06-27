@@ -1,0 +1,16 @@
+/* size of the drawing */
+svg {
+	width: 600px;
+	height: 600px;
+}
+
+/* happy face! */
+#face {
+	fill: yellow;
+}
+
+/*
+	- Add a CSS rule to change the color of the eyes.
+	- Add either a Bootstrap class or a @media query so the content is only visible if the screen is wider than 768px.
+	- Bonus: add some other content (more text?) for when the face is hiding!
+*/
